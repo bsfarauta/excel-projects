@@ -5,7 +5,7 @@ Collection of my Excel work for Data Analysis.
 
 ### 1. Sales Dashboard
 - Tools: Pivot Table, Charts, Slicers, KPI Card
-- Features: Resin-wise Sales, Profit Analysis, Top Products
+- Features: Resion-wise Sales, Profit Analysis, Top Products
 - File: /sales-dashboard/sales_dashboard.xlsx
 
 ### 2. Data Cleaning Project
